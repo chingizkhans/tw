@@ -7,15 +7,18 @@
 }
 .container{
     background: rgb(223, 191, 158);
-    width: 1000PX;
+  width: 100%;
     height: 500px;
-    
+    margin-bottom: 20px;
 }
 .beautiful_right {
     margin-top: 5%;
     width: 50%;
 }
+.beautiful_left{
+    margin-bottom: 120px;
 
+}
 .beautiful {
     gap: 225px;
     display: flex;
